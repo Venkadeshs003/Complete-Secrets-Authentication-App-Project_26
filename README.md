@@ -1,3 +1,11 @@
+Preview:
+   ![Google Auth](./screenshots/Google%20Auth.gif)
+   ![Home page](./screenshots/Home%20page.png)
+   ![Login Page](./screenshots/Login%20Page.png)
+   ![process preview](./screenshots/process%20preview.gif)
+   ![Register page](./screenshots/Register%20page.png)
+   ![Secret Page](./screenshots/Secret%20Page.png)
+
 # 🔐 Secrets Authentication App
 now user can submit there own secret
 
@@ -34,10 +42,4 @@ Authenticated users can submit and view **secrets** securely.
    git clone https://github.com/your-username/secrets-auth-app.git
    cd secrets-auth-app
 
-   Preview:
-   ![Google Auth](./screenshots/Google%20Auth.gif)
-   ![Home page](./screenshots/Home%20page.png)
-   ![Login Page](./screenshots/Login%20Page.png)
-   ![process preview](./screenshots/process%20preview.gif)
-   ![Register page](./screenshots/Register%20page.png)
-   ![Secret Page](./screenshots/Secret%20Page.png)
+   
